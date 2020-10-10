@@ -1,6 +1,7 @@
 ### Hi there, I'm Ambuj 👋
 
-## I'm a Senior Software Engineer@OyoRooms, Backend Develepment Enthusiast!
+## I'm a Engineering Lead@OyoRooms, Systems Design Enthusiast!!
+# A computer Science Engineer and lead working on building Highly scalable Fault Tolerant Systems with 4 years Experience, Worked with WalmartLabs, Oyo-Rooms, Tapzo(Acqi-hired by Amazon)
 
 - 🌱 I’m currently exploring Frontend technologies - React/React-Native, and distributed system Designs.
 - 👯 I’m looking to work with other Software collaboraters on new and exciting projects.
