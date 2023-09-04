@@ -1,14 +1,12 @@
-### Hi there, I'm Ambuj 👋
+### Hi there 👋
 
-## I'm a Engineering Lead@OyoRooms, Systems Design Enthusiast!!
+## Systems Design Enthusiast!!
 A computer Science Engineer and lead working on building Highly scalable Fault Tolerant Systems with 4 years Experience, Worked with WalmartLabs, Oyo-Rooms, Tapzo(Acqi-hired by Amazon)
 
 - 🌱 I’m currently exploring Frontend technologies - React/React-Native, and distributed system Designs.
 - 👯 I’m looking to work with other Software collaboraters on new and exciting projects.
 - 🥅 2020 Goals: Distributed System - Designing data intensive Applications - Martin Klepmann
 
-### Connect with me:
-[<img align="left" alt="ambujmehra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -22,5 +20,3 @@ A computer Science Engineer and lead working on building Highly scalable Fault T
 <br />
 <br />
 
-[instagram]: https://www.facebook.com/ambuj.mehra.1
-[linkedin]: https://www.linkedin.com/in/ambujmehra
